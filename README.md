@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Milan
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything simple iguess
-- 📫 How to reach me ....
-- im very new to this
+- 🌱 I’m currently learning c#, php, javascript.
+- im pretty new to this
 
 <!---
 Milan9135/Milan9135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
